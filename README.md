@@ -1,2 +1,2 @@
-# wedDevFinalProj
+# WedDevFinalProj
 Final project for Web Development
